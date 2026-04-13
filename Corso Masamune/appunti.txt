@@ -1,0 +1,4 @@
+interpretato, dalla compilazione all' esecuzione c'è un interpretatore che 
+dinamico, dinamicamente fortemente tipizzato
+python è anche imperativo o funzionale oltre che fortemente oop
+prima regola è indentazione
