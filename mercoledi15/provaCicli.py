@@ -21,3 +21,7 @@ for numero in numeri:
 #for con range
 for i in range(0,10,2):
     print(i)
+    
+#break--> viene utilizzato per interrompere immediatamente un ciclo se si verifica una determinata condizione
+#continue--> salta il resto del codice all'interno di un ciclo e passare alla prossima iterazione
+#pass--> viene utilizzata quando non si desidera eseguire alcuna azione all'interno di un ciclo
